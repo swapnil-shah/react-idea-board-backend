@@ -1,2 +1,2 @@
 # react-idea-board-backend
-Created with CodeSandbox
+This is a backend to create or add user for react-idea-frontend
